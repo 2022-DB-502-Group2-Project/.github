@@ -39,3 +39,18 @@ Hongik Univ. 3rd grade 2nd Semester Database final project
 - Communication
   - Discord
 
+## Git commit message convention은 Udacity Naming Convention을 사용합니다!
+
+- feat : 새로운 기능과 관련된 것을 의미합니다.
+
+- fix : 오류와 같은 것을 수정했을 때 사용합니다.
+
+- docs : 문서와 관련하여 수정한 부분이 있을 때 사용합니다.
+
+- style : 코드의 변화와 관련없는 포맷이나 세미콜론을 놓친 것과 같은 부분들을 의미합니다.
+
+- refactor : 코드의 리팩토링을 의미합니다.
+
+- test : test를 추가하거나 수정했을 때를 의미합니다.
+
+- chore : build와 관련된 부분, 패키지 매니저 설정 등 여러가지 production code와 무관한 부분 들을 의미합니다
