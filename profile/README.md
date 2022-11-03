@@ -38,6 +38,8 @@ Hongik Univ. 3rd grade 2nd Semester Database final project
     - Convention : Udacity Naming Convention
 - Communication
   - Discord
+- Testing & Dev
+  - Docker, Docker-Compose, Kubernetes(Minikube)
 
 ## Git commit message convention은 Udacity Naming Convention을 사용합니다!
 
