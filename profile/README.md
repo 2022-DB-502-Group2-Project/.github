@@ -26,7 +26,7 @@ Hongik Univ. 3rd grade 2nd Semester Database final project
   - Node.js
   - Express.js
 - Database
-  - RDBMS : <mark>**Oracle DB ver.19.12.0.0.0**</mark>
+  - RDBMS : **`Oracle DB ver.19.12.0.0.0`**
 - Data Scraper & Query Script Builder
   - Python3 (pandas, bs4, selenium, chromedriver, cx_oracle)
 - Flow Automation
