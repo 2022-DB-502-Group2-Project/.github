@@ -25,7 +25,7 @@ Hongik Univ. 3rd grade 2nd Semester Database final project
   - Vanilla JavaScript
 - Back-End
   - Node.js
-  - Express.js
+  - Express.js + node-oracle
   - PHP (5.4 >=)
 - Database
   - RDBMS : **`Oracle DB ver.19.12.0.0.0`**
