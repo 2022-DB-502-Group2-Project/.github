@@ -25,6 +25,7 @@ Hongik Univ. 3rd grade 2nd Semester Database final project
 - Back-End
   - Node.js
   - Express.js
+  - PHP (5.4 >=)
 - Database
   - RDBMS : **`Oracle DB ver.19.12.0.0.0`**
 - Data Scraper & Query Script Builder
