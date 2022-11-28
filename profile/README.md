@@ -33,6 +33,8 @@ Hongik Univ. 3rd grade 2nd Semester Database final project
   - Python3 (pandas, bs4, selenium, chromedriver, cx_oracle)
 - Flow Automation
   - Shell Script
+- Document
+  - Swagger UI(Only for node.js backend)
 - Dependency Management
   - Poetry
 - Version Control : 
