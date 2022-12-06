@@ -17,7 +17,7 @@ Hongik Univ. 3rd grade 2nd Semester Database final project
 - 각 선수들의 프로필 정보를 얻을 수 있습니다
 - 각 팀의 현 시즌 정보를 얻을 수 있습니다
 - 선수의 이전 리그 전적 정보를 얻을 수 있습니다
-## 이러한 기술들이 사용됩!
+## 이러한 기술들이 사용됩니다!   
 
 - Front-End
   - HTML
