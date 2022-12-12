@@ -3,7 +3,7 @@ Hongik Univ. 3rd grade 2nd Semester Database final project
 ***
 ## Professor & Class Information
 - 데이터베이스 및 실습 / 704822-502
-- Professor / Lab : Robert Youngchul Kim / [Sofware Engineering Lab](http://selab.hongik.ac.kr/)
+- Professor / Lab : **Robert Youngchul Kim** / [Sofware Engineering Lab](http://selab.hongik.ac.kr/)
 ## 멤버
 - [윤준호](https://github.com/J-hoplin1)
 - [한정우](https://github.com/hjw0623)
